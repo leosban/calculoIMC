@@ -1,4 +1,4 @@
-# calculoIMC
+# [calculoIMC](https://leosban.github.io/calculoIMC/)
 **Projeto de calculadora IMC utilizando HTML, CSS e JavaScript.**
 
 **Com**</br>
