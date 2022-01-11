@@ -4,4 +4,4 @@
 **Com**</br>
 Validação de Input</br>
 Exibição de Erros</br>
-Manipulação da DOM</br>
+Manipulação do DOM</br>
